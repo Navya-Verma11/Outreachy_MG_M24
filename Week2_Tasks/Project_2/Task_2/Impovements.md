@@ -6,7 +6,7 @@
 3. [Chapter 3: Introduction to Generic Carbon Budget Model](#chapter3)
 4. [Chapter 4: The Work DVC Plays in the Land Sector Repo](#chapter4)
 5. [Chapter 5: Running a GCBM Simulation](#chapter5)
-6. [Chapter 6: Climate Projections](#chapter5)
+6. [Chapter 6: Climate Projections](#chapter6)
 7. [Overall Required Improvement or Expansion](#overall-required-improvement-or-expansion)
 
 ---
