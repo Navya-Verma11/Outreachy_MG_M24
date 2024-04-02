@@ -31,7 +31,7 @@ FLINT is a modern programming language designed for writing secure smart contrac
 -Review Requirements: Confirm all necessary components and adjustments for cross-platform packaging.
 -Review the development environment setup for any missing dependencies or configurations.
 
-*Week 4-5:*
+*Week 4-6:*
 -Configuration: Implement platform-specific adjustments or configurations as per the plan.
 -Ensure compatibility across different operating systems (Windows, macOS, Linux).
 -Test the configurations thoroughly to resolve any compatibility issues.
